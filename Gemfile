@@ -28,7 +28,7 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :development do
-  gem 'sqlite3'
+  gem 'pg'
 end
 
 group :production do
